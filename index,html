@@ -364,24 +364,22 @@
 
         <!-- Love Letter -->
         <div id="letterView" class="love-letter">
-            <h2>💌 A Love Letter 💌</h2>
+            <h2>💌 A Letter 💌</h2>
             
             <div class="love-letter-content">
                 <p>My Dearest and Most Cherished Love,</p>
 
-                <p>On this blessed day, I find myself overwhelmed with joy and gratitude for having you in my life. Words seem inadequate to express the depth of my affection, yet I shall endeavor to convey the symphony of emotions that dance within my heart whenever I think of you.</p>
+                <p>On this day, I find myself overwhelmed with joy and gratitude for having you in my life. Words seem inadequate to express the depth of my affection, yet I shall endeavor to convey the symphony of emotions that dance within my heart whenever I think of you.</p>
 
-                <p>From the moment our paths crossed, my world was illuminated by your radiance. Your smile is the most beautiful masterpiece I have ever beheld, and your laughter is the sweetest music that graces my ears. Every moment spent in your presence is a treasure, every memory we create a jewel I hold dear.</p>
-
-                <p>Your kindness, your grace, your unwavering spirit—these are the qualities that have captured my heart completely. You inspire me to be a better person, to reach for the stars, and to believe in the power of true love. With you, I have found not just a beloved, but my soulmate, my confidant, my greatest blessing.</p>
+                <p>Or ha mai nahi sharmata padhte waqt 😎. Your smile is the most beautiful masterpiece I have ever beheld, and your laughter is the sweetest music that graces my ears. Every moment spent in your presence is a treasure, every memory we create a jewel I hold.</p>
 
                 <p>I promise to cherish you with all the devotion my heart can muster, to stand by your side through every season of life, and to love you more deeply with each passing day. You are my greatest adventure, my sweetest dream come true.</p>
 
                 <p>Forever and always, in this life and beyond, my heart is eternally yours.</p>
 
                 <div class="signature">
-                    <p>With Infinite Love and Devotion,</p>
-                    <p style="font-size: 24px; margin-top: 20px;">💕 Your Admirer 💕</p>
+                    <p>With Infinite Love ,</p>
+                    <p style="font-size: 24px; margin-top: 20px;">💕 yours 💕</p>
                 </div>
             </div>
         </div>
